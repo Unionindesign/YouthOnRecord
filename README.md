@@ -1,8 +1,8 @@
 # Youth On Record - Empowerment Through Creative Education
 
-[YOR logo](./images/yor_darklogo_cropped.png)
+![YOR logo](./images/yor_darklogo_cropped.png)
 
-### Link: Youthonrecord.org
+### Link: https://www.youthonrecord.org/
 
 YOR is a Denver based non-profit that I have been involved with for many years. They have been big supporters of the at-risk youth community as well as local music, and were there for my band Los Mocochetes when we first got our start in the spring of 2017, allowing us to rehearse in their state of the art Youth Media Studio for several years. Originally founded by members of hip-hop group the Flobots and their venture into service with Flobots.org, Youth On Record has partnered with schools, youth facilities, libraries, and many others, impacted over 1,000 youth annually.
 
