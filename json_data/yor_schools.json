@@ -1,0 +1,174 @@
+[
+	{
+		"name": "Colorado High School Charter Osage",
+		"address": "1175 Osage St #100, Denver CO 80204",
+		"url": "https://www.coloradohighschoolcharter.com/",
+		"classes": [
+			{ "class_title": "Introduction to Music Production", "class_link": "" },
+			{ "class_title": "Advance Production Techniques", "class_link": "" }
+		],
+		"teachers": [
+			{
+				"teacher_name": "Devin Urioste",
+				"teacher_link": "https://www.youthonrecord.org/team-member/devin-urioste"
+			},
+			{
+				"teacher_name": "Wes Watkins",
+				"teacher_link": "https://www.youthonrecord.org/team-member/wesley-watkins"
+			},
+			{
+				"teacher_name": "DJ AL",
+				"teacher_link": "https://www.youthonrecord.org/team-member/dj-a-l"
+			}
+		],
+		"latitude": 39.7347978,
+		"longitude": -105.0080127,
+		"img_src": ""
+	},
+	{
+		"name": "Colorado High School Charter GES",
+		"address": "3093 E. 42nd Ave Denver CO 80216",
+		"url": "https://www.coloradohighschoolcharter.com/",
+		"classes": [
+			{ "class_title": "Introduction to Music Production", "class_link": "" }
+		],
+		"teachers": [
+			{
+				"teacher_name": "Elijah Lynch",
+				"teacher_link": "https://www.youthonrecord.org/team-member/eli-lynchhttps://www.youthonrecord.org/team-member/eli-lynch"
+			},
+			{
+				"teacher_name": "Kalyn Heffernan",
+				"teacher_link": "https://www.youthonrecord.org/team-member/kalyn-heffernan"
+			}
+		],
+		"latitude": 39.7549728,
+		"longitude": -105.0133255,
+		"img_src": ""
+	},
+	{
+		"name": "North High School",
+		"address": "2960 Speer Blvd, Denver CO 80211",
+		"url": "https://north.dpsk12.org/",
+		"classes": [
+			{ "class_title": "Introduction to Music Production", "class_link": "" },
+			{ "class_title": "Advance Production Techniques", "class_link": "" }
+		],
+		"teachers": [
+			{
+				"teacher_name": "Mona Magno",
+				"teacher_link": "https://www.youthonrecord.org/team-member/mona-magno"
+			}
+		],
+		"latitude": 39.7549623,
+		"longitude": -105.0134972,
+		"img_src": ""
+	},
+	{
+		"name": "Legacy Options High School",
+		"address": "6850 Argonne St, Denver CO 80249",
+		"url": "https://www.makeyourownlegacy.org/",
+		"classes": [
+			{ "class_title": "Introduction to Music Production", "class_link": "" }
+		],
+		"teachers": [
+			{
+				"teacher_name": "Michelle Rocqet",
+				"teacher_link": "https://www.youthonrecord.org/team-member/michelle-rocqet"
+			},
+			{
+				"teacher_name": "Stephen Brackett",
+				"teacher_link": "https://www.youthonrecord.org/team-member/stephen-brackett"
+			}
+		],
+		"latitude": 39.8206545,
+		"longitude": -104.7712093,
+		"img_src": ""
+	},
+	{
+		"name": "Third Way Center",
+		"address": "505 W 5th Ave, Denver CO 80204",
+		"url": "https://thirdwaycenter.org/",
+		"classes": [
+			{ "class_title": "Introduction to Music Production", "class_link": "" }
+		],
+		"teachers": [
+			{
+				"teacher_name": "Babah Fly",
+				"teacher_link": "https://www.youthonrecord.org/team-member/babah-fly"
+			}
+		],
+		"latitude": 39.7342607,
+		"longitude": -104.9700286,
+		"img_src": ""
+	},
+	{
+		"name": "Rise Up Community School",
+		"address": "2342 Broadway, Denver CO 80205",
+		"url": "https://riseupcommunityschool.net/",
+		"classes": [
+			{ "class_title": "Introduction to Music Production", "class_link": "" },
+			{ "class_title": "Visual Representation", "class_link": "" }
+		],
+		"teachers": [
+			{
+				"teacher_name": "Michelle Rocqet",
+				"teacher_link": "https://www.youthonrecord.org/team-member/michelle-rocqet"
+			}
+		],
+		"latitude": 39.7554754,
+		"longitude": -104.9893925,
+		"img_src": ""
+	},
+	{
+		"name": "PREP Academy",
+		"address": "2727 Columbine St, Denver CO 80205",
+		"url": "http://prepacademy.dpsk12.org/",
+		"classes": [{ "class_title": "Creative Writing", "class_link": "" }],
+		"teachers": [
+			{
+				"teacher_name": "Elijah Lynch",
+				"teacher_link": "https://www.youthonrecord.org/team-member/eli-lynchhttps://www.youthonrecord.org/team-member/eli-lynch"
+			}
+		],
+		"latitude": 39.7554542,
+		"longitude": -105.0574214,
+		"img_src": ""
+	},
+	{
+		"name": "Aurora West Collegiate Prep Academy",
+		"address": "10100 E 13th Ave, Aurora CO 80010",
+		"url": "https://awcpa.aurorak12.org/",
+		"classes": [
+			{ "class_title": "Introduction to Ethnic Studies", "class_link": "" },
+			{ "class_title": "Music Production", "class_link": "" }
+		],
+		"teachers": [
+			{
+				"teacher_name": "Stephen Brackett",
+				"teacher_link": "https://www.youthonrecord.org/team-member/stephen-brackett"
+			}
+		],
+		"latitude": 39.7359811,
+		"longitude": -104.8727836,
+		"img_src": ""
+	},
+	{
+		"name": "Hill Campus of Arts and Sciences",
+		"address": "451 Clermont Street, Denver CO 80220",
+		"url": "http://hill.dpsk12.org/",
+		"classes": [
+			{ "class_title": "Intro to Creative Writing", "class_link": "" },
+			{ "class_title": "Social Justice", "class_link": "" }
+		],
+		"teachers": [
+			{
+				"teacher_name": "Babah Fly",
+				"teacher_link": "https://www.youthonrecord.org/team-member/babah-fly"
+			}
+		],
+		"latitude": 39.723709,
+		"longitude": -104.9376726,
+		"img_src": ""
+	}
+]

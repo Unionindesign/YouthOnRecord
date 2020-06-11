@@ -1,0 +1,77 @@
+[
+	{
+		"name": "Ford Warren",
+		"address": "2825 N High St, Denver CO 80205",
+		"url": "https://www.denverlibrary.org/content/ford-warren-branch-library",
+		"classes": [{ "class_title": "Beats Lab", "class_link": "" }],
+		"teachers": [
+			{
+				"teacher_name": "Mona Magno",
+				"teacher_link": "https://www.youthonrecord.org/team-member/mona-magno"
+			}
+		],
+		"latitude": 39.7573889,
+		"longitude": -104.967268,
+		"img_src": "https://geo2.ggpht.com/cbk?panoid=_DAxCFBBb-bpsvkDepIKDg&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=274.08768&pitch=0&thumbfov=100"
+	},
+	{
+		"name": "Corky Gonzalez",
+		"address": "1498 Irving St, Denver CO 80204",
+		"url": "https://www.denverlibrary.org/content/rodolfo-corky-gonzales-branch-library",
+		"classes": [{ "class_title": "Beats Lab", "class_link": "" }],
+		"teachers": [
+			{
+				"teacher_name": "Elijah Lynch",
+				"teacher_link": "https://www.youthonrecord.org/team-member/eli-lynchhttps://www.youthonrecord.org/team-member/eli-lynch"
+			}
+		],
+		"latitude": 39.740052,
+		"longitude": -105.0317483,
+		"img_src": "https://geo0.ggpht.com/cbk?panoid=qb_c23eijRyK6vhu5VhBog&output=thumbnail&cb_client=search.gws-prod/local-details-getcard.gps&thumb=2&w=408&h=240&yaw=95.982475&pitch=0&thumbfov=100"
+	},
+	{
+		"name": "Ross Barnum",
+		"address": "3570 W First Ave, Denver CO 80219",
+		"url": "https://www.denverlibrary.org/content/ross-barnum-branch-library",
+		"classes": [{ "class_title": "Beats Lab", "class_link": "" }],
+		"teachers": [
+			{
+				"teacher_name": "Michelle Rocqet",
+				"teacher_link": "https://www.youthonrecord.org/team-member/michelle-rocqet"
+			}
+		],
+		"latitude": 39.7179532,
+		"longitude": -105.0367947,
+		"img_src": "https://geo2.ggpht.com/cbk?panoid=G_mBcqGpr6JMD2OhUIzI3A&output=thumbnail&cb_client=search.gws-prod/maps/local-details-getcard.gps&thumb=2&w=408&h=240&yaw=176.32733&pitch=0&thumbfov=100"
+	},
+	{
+		"name": "Athmar Park",
+		"address": "1055 S Tejon St, Denver CO 80223",
+		"url": "https://www.denverlibrary.org/content/athmar-park-branch-library",
+		"classes": [{ "class_title": "Beats Lab", "class_link": "" }],
+		"teachers": [
+			{
+				"teacher_name": "Devin Urisote",
+				"teacher_link": "https://www.youthonrecord.org/team-member/devin-urioste"
+			}
+		],
+		"latitude": 39.6970863,
+		"longitude": -105.0157936,
+		"img_src": "https://geo0.ggpht.com/cbk?panoid=m9snCv6AFMd2XsEuFxHDTg&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=315.50183&pitch=0&thumbfov=100"
+	},
+	{
+		"name": "Pauline Robinson",
+		"address": "5575 E 33rd Ave, Denver CO 80207",
+		"url": "https://www.denverlibrary.org/content/pauline-robinson-branch-library",
+		"classes": [{ "class_title": "single day kick off", "class_link": "" }],
+		"teachers": [
+			{
+				"teacher_name": "Stephen Brackett",
+				"teacher_link": "https://www.youthonrecord.org/team-member/stephen-brackett"
+			}
+		],
+		"latitude": 39.7640976,
+		"longitude": -104.9248814,
+		"img_src": "https://geo1.ggpht.com/cbk?panoid=Q9dE1rc5JGYaVy6WZ50JBg&output=thumbnail&cb_client=search.gws-prod/maps/local-details-getcard.gps&thumb=2&w=408&h=240&yaw=46.23256&pitch=0&thumbfov=100"
+	}
+]

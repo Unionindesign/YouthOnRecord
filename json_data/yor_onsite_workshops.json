@@ -1,0 +1,66 @@
+[
+	{
+		"partner": "Heritage Camps for Adoptive Families",
+		"students_served": 20,
+		"date": "6/17/2019"
+	},
+	{ "partner": "EcoArts", "students_served": 10, "date": "3/21/2019" },
+	{
+		"partner": "Noel Community Arts",
+		"students_served": 15,
+		"date": "12/14/2019"
+	},
+	{
+		"partner": "Bruce Randolph",
+		"students_served": 10,
+		"date": "4/30 & 5/1/2019"
+	},
+	{
+		"partner": "Kipp middle school",
+		"students_served": 10,
+		"date": "4/30/2019"
+	},
+	{ "partner": "World Denver", "students_served": 20, "date": "3/20/2019" },
+	{
+		"partner": "Gateway to College",
+		"students_served": 15,
+		"date": "5/20/2019"
+	},
+	{ "partner": "RAMP", "students_served": 10, "date": "2/28/2019" },
+	{
+		"partner": "John F Kennedy High School",
+		"students_served": 6,
+		"date": "5/14/2019"
+	},
+	{
+		"partner": "Florence Crittenton High School",
+		"students_served": 15,
+		"date": "5/16/2019"
+	},
+	{ "partner": "Gals", "students_served": 6, "date": "Fridays 2018 - 2019" },
+	{
+		"partner": "The Breaking Convention",
+		"students_served": 30,
+		"date": "11/3/2019"
+	},
+	{
+		"partner": "Career Connect",
+		"students_served": 5,
+		"date": "2018-2019 School year"
+	},
+	{
+		"partner": "Goodwill internships",
+		"students_served": 4,
+		"date": "2018-2019 School year"
+	},
+	{
+		"partner": "BBYO International Convention",
+		"students_served": 25,
+		"date": "2/15/2019"
+	},
+	{
+		"partner": "Clyde Miller Middle School",
+		"students_served": 10,
+		"date": "4/24/2019"
+	}
+]
