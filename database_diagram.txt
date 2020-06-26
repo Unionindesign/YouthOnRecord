@@ -1,0 +1,34 @@
+partnership
+-
+id PK int
+partner_name VARCHAR
+type VARCHAR
+address VARCHAR
+latitude dec
+longitude dec
+
+program
+-
+id PK int
+title VARCHAR
+program_description_url VARCHAR
+
+instructor
+-
+id PK in
+first_name VARCHAR
+last_name VARCHAR
+start_date  VARCHAR
+web_url VARCHAR
+
+workshop_contract
+-
+id PK int
+partner_id VARCHAR FK >- partnership.id
+instructor_id VARCHAR FK >- instructor.id
+program_id VARCHAR FK >- program.id
+onsite BOOL
+num_sessions
+
+
+(link: https://app.quickdatabasediagrams.com/#/d/AA33Az)
